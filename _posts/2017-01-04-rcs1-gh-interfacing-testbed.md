@@ -11,12 +11,16 @@ published: true
 accelerate_page_layout:
   - default_layout
 ---
-<pre>PAT_csect_anf
 
-:format =&gt; :md
-
+pat_davor_pre
+<pre>
+PAT_csect_anf
+    :format =&gt; :md
 PAT_csect_end
+</pre>
+pat_danach_pre
 
 ---
 
-</pre>
+fat content
+---
