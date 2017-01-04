@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kassenleistungen/impfungen/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}'
+  - 'a:2:{i:0;s:63:"a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:63:"a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}";}'
+  - 'a:2:{i:0;s:63:"a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:63:"a:2:{s:9:"_thumb_id";s:3:"876";s:11:"_thumb_type";s:5:"thumb";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h2>Was ist eine Impfung?</h2>
 

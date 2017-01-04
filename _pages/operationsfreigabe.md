@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kassenleistungen/operationsfreigabe/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1401;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 [caption id="attachment_1400" align="alignleft" width="150"]<a href="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/02/Labor-Neu-4_2k.jpg"><img class="wp-image-1400 size-thumbnail" src="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/02/Labor-Neu-4_2k-150x150.jpg" alt="Neues Labor" width="150" height="150" /></a> Neues Labor (zum Verkrößern KLICKEN)[/caption]
 

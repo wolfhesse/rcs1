@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-sohorouter/download/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 <h2><strong>Sourcecode</strong></h2>
 Die fuer die Untersuchung hergestellten Softwarekomponenten sind auf <a href="http://github.com/sohorouter">http://github.com/sohorouter</a> verfuegbar. Fuer die Durchfuehrung von SCAN wurde Angry IP Scanner [<a href="http://www.angryip.org/w/Home">http://www.angryip.org/w/Home</a>] eingebunden.

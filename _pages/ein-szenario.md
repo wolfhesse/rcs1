@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-sohorouter/ein-szenario/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 Alle kontrollierten Router werden fuer eine ungeschminkte DDoS Attacke durch Aufbringen einer geeigneten Firmware vorbereitet. Ein Rollout der Software waere innerhalb eines Tages moeglich. Fuer eine sub-1-Gbps DDoS Attacke sind weniger als 1000 infizierte Router mit einer Bandbreite von 1 Mbps noetig, die Vorbereitung einer solchen Attacke kann ohne aufwaendige CnC Infrastruktur in voelliger Anonymitaet erfolgen, ohne typische DNS Muster von statistischer Signifikanz zu hinterlassen, wenn der Router beispielsweise ueber ein eigenes Kommandointerface im Webserver verfuegt und ueber einen TOR Exitpoint mit Zieladressen versorgt wird.
 

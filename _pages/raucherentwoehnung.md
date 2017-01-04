@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/raucherentwoehnung/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";i:1;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";i:1;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h2><span style="color: #ff6600;">Raucherentwwöhnung nach Univ. Prof. Dr. Otto Lesch</span></h2>
 Ein kleiner Überblick über die Möglichkeiten mit dem Rauchen aufzuhören!

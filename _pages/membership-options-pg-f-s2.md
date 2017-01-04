@@ -9,6 +9,6 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-coll-1/membership-options-pg-f-s2/
 published: true
 wpcf-x_userdefined_x_orig_userid:
-  - rogera
+  - 'a:1:{i:0;s:6:"rogera";}'
 ---
 .here

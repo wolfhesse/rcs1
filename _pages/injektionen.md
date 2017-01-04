@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kassenleistungen/injektionen/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1539;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 [caption id="attachment_1539" align="alignnone" width="160"]<a href="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/04/injektion.jpg"><img class="wp-image-1539" src="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/04/injektion.jpg" alt="Injektionen" width="160" height="151" /></a> (zum Vergrößern KLICKEN)[/caption]
 

@@ -9,18 +9,18 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/home/mitarbeiter/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1009;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 post_slider_key:
-  - dr-klaus-klapper-team-klaus-links
+  - 'a:1:{i:0;s:33:"dr-klaus-klapper-team-klaus-links";}'
 slider_delay_key:
-  - "5000"
+  - 'a:1:{i:0;s:4:"5000";}'
 slider_layout_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 <b>Frau Dr. Elisabeth Grolig</b>
 

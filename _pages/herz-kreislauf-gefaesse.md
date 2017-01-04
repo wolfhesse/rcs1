@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kassenleistungen/spezielle-untersuchungen/herz-kreislauf-gefaesse/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1537;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h2>24 Stunden Blutdruckmessung</h2>
 

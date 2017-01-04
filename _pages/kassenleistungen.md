@@ -9,18 +9,18 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kassenleistungen/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1322;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 post_slider_key:
-  - dr-klapper-kassenleistungen
+  - 'a:1:{i:0;s:27:"dr-klapper-kassenleistungen";}'
 slider_delay_key:
-  - "5000"
+  - 'a:1:{i:0;s:4:"5000";}'
 slider_layout_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 [caption id="attachment_1322" align="alignnone" width="300"]<a href="http://rmz-meidling.net/wp-content/uploads/2016/02/Ecard-Musterfoto.463.jpg"><img class="wp-image-1322 size-medium" src="http://rmz-meidling.net/wp-content/uploads/2016/02/Ecard-Musterfoto.463-300x106.jpg" alt="Österreichische e-card (Krankenkasse)" width="300" height="106" /></a> Eine e-card der österreichischen Krankenkassen für Patienten. (zum Vergrößern KLICKEN)[/caption]
 

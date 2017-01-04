@@ -9,9 +9,9 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-coll-1/about-2/
 published: true
 wpcf-x_userdefined_ase_homepage:
-  - HTTP://mummensausen.wordpress.com
+  - 'a:1:{i:0;s:33:"HTTP://mummensausen.wordpress.com";}'
 wpcf-x_userdefined_x_orig_userid:
-  - mummensausen
+  - 'a:1:{i:0;s:12:"mummensausen";}'
 ---
 <h2>[types field='x_userdefined_x_orig_userid'][/types]</h2>
 

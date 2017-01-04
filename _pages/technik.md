@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-sohorouter/technik/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 <h2>Scan</h2>
 Die abgelaufenen Abfragen gegen die IP-Adressen sind direkt erfolgt, mit 5-10 Abfragen pro Sekunde ist die Netzwerkbelastung minimal - d.h. man kann mit geringer bzw haushaltsueblicher Bandbreite zum Ergebnis gelangen. Die zu testenden Adressen wurden innerhalb ihres Blocks grob verwuerfelt. Netzwerktests, welche guenstigerweise mit wesentlich hoeheren Datenraten abzufuehren sind koennten bereits ueber die aus Stufe 1 'eroberten' Endpunkte geleistet werden. Nur zu Pruefzwecken wurden geringe Teile ueber gesichert anonyme Verbindung abgearbeitet. Die dadurch auftretende Latenz ist weitgehend vernachlaessigbar. Ein weiterfuehrender Scan eines LAN-Segments mittels DMZ-Eintrag wurde mit dem schwaechsten verfuegbaren Routermodell labormaessig geprueft. Es ist davon auszugehen, dass der Erfolg auf alle Router mit dieser Funktionalitaet uebertragbar ist. Ein weiterfuehrender Scan eines LAN-Segments mittels Port-Forwarding wurde mit mehreren Routermodellen mit ebensolchen Ergebnissen geprueft.

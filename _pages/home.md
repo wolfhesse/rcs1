@@ -9,22 +9,22 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/home/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}'
+  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}'
+  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 slider_delay_key:
-  - "5000"
+  - 'a:1:{i:0;s:4:"5000";}'
 slider_layout_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 post_slider_key:
-  - dr-klapper-team-ueber-uns
+  - 'a:1:{i:0;s:25:"dr-klapper-team-ueber-uns";}'
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 wpcf-x_userdefined_x_orig_userid:
-  - rogera
+  - 'a:1:{i:0;s:6:"rogera";}'
 ---
 <a name="Dr.Klapper"></a>
 

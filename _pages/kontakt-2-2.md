@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-sohorouter/kontakt-2-2/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 E-Mail: sohorouter@gmail.com
 

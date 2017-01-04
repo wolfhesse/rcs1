@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/allergietest/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}'
-  - 'a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}";i:1;s:66:"a:2:{s:9:"_thumb_id";i:1484;s:11:"_thumb_type";s:10:"attachment";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 [caption id="attachment_1484" align="alignright" width="221"]<a href="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/04/H2_Atemtester-754x1024.jpg"><img class="size-medium wp-image-1484" src="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/04/H2_Atemtester-221x300.jpg" alt="H2 Atemtester" width="221" height="300" /></a> H2 Atemtester[/caption]
 

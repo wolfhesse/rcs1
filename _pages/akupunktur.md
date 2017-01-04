@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/akupunktur/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";i:1;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";}'
+  - 'a:2:{i:0;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";i:1;s:66:"a:2:{s:9:"_thumb_id";s:4:"1267";s:11:"_thumb_type";s:7:"default";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <h3><span style="color: #993300;">Was ist Akupunktur</span></h3>
 Die Akupunktur ist ein Teilgebiet der <strong>traditionellen chinesischen Medizin</strong> (TCM). Sie geht von der Lebensenergie des Körpers aus (Qi), die auf definierten Leitbahnen beziehungsweise Meridianen zirkuliert und einen steuernden Einfluss auf alle Körperfunktionen hat. Ein gestörter Energiefluss wird für Erkrankungen verantwortlich gemacht. Durch Stiche in auf den Meridianen liegende Akupunkturpunkte soll die Störung im Fluss des Qi behoben werden. Das gleiche Therapieziel hat die Akupressur, bei der man einen stumpfen Druck ausübt, sowie die Moxibustion, bei der Wärme eingesetzt wird.

@@ -9,18 +9,18 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/home/leitung/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}'
+  - 'a:2:{i:0;s:63:"a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:63:"a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}";}'
+  - 'a:2:{i:0;s:63:"a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:63:"a:2:{s:9:"_thumb_id";s:3:"835";s:11:"_thumb_type";s:5:"thumb";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 post_slider_key:
-  - dr-klaus-klapper-team-klaus-links
+  - 'a:1:{i:0;s:33:"dr-klaus-klapper-team-klaus-links";}'
 slider_delay_key:
-  - "5000"
+  - 'a:1:{i:0;s:4:"5000";}'
 slider_layout_key:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 <b><i><span style="font-size: small;"><img class="ngg-singlepic ngg-none alignright" src="http://wp.wolfspool.chickenkiller.com/wpasecms/wp-content/uploads/2016/02/klaus-2.jpg" alt="Dr. Med. Univ. KLAUS KLAPPER" width="163" height="231" /></span></i></b>
 

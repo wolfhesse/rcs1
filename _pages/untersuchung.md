@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-sohorouter/untersuchung/
 published: true
 sharing_disabled:
-  - "1"
+  - 'a:1:{i:0;s:1:"1";}'
 ---
 <h2><strong>SOHO router exploitability analysis, malware for routers</strong></h2>
 <strong><a href="mailto:sohorouter@gmail.com">sohorouter@gmail.com</a>, <a href="http://sohorouter.wordpress.com/">http://sohorouter.wordpress.com</a></strong>

@@ -9,12 +9,12 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/kontakt-2-2-2/
 published: true
 tc-thumb-fld:
-  - 'a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}'
-  - 'a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}'
+  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}";}'
+  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1310";s:11:"_thumb_type";s:5:"thumb";}";}'
 layout_key:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 post_slider_check_key:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 <div id="mainarea">
 <div id="content">
