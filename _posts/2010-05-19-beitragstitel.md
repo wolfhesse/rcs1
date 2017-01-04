@@ -10,3 +10,39 @@ permalink: >
 published: true
 ---
 wessen ente?
+
+### dieser beitrag ist github-interfaced
+##### workspace 1
+
+##### workspace 2
+
+##### workspace 3
+
+---
+rpt DLY
+
+---
+
+[ ] checkbox sample .md
+
+---
+
+- listitem
+    - listitem
+    - listitem
+
+---
+
+<pre>
+html contained in pre
+</pre>
+
+<div>
+div with <em>format</em>
+</div>
+
+ 
+ 
+```
+nice to have TAG information segment
+```
