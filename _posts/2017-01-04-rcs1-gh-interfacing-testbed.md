@@ -11,10 +11,8 @@ published: true
 accelerate_page_layout:
   - default_layout
 ---
-
 pat_davor_pre
-<pre>
-PAT_csect_anf
+<pre>PAT_csect_anf
     :format =&gt; :md
 PAT_csect_end
 </pre>
