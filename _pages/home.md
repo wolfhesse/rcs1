@@ -6,25 +6,25 @@ post_date: 2016-02-08 02:41:53
 post_excerpt: ""
 layout: page
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/pg-meta-pages/pg-client-pages-rmz/home/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/pg-catalog/home/
 published: true
 tc-thumb-fld:
-  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}'
-  - 'a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}'
+  - 'a:2:{i:0;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";i:1;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";}'
+  - 'a:2:{i:0;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";i:1;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";}'
 layout_key:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 post_slider_check_key:
-  - 'a:1:{i:0;s:1:"1";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"1";}";}'
 slider_delay_key:
-  - 'a:1:{i:0;s:4:"5000";}'
+  - 'a:1:{i:0;s:21:"a:1:{i:0;s:4:"5000";}";}'
 slider_layout_key:
-  - 'a:1:{i:0;s:1:"1";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"1";}";}'
 post_slider_key:
-  - 'a:1:{i:0;s:25:"dr-klapper-team-ueber-uns";}'
+  - 'a:1:{i:0;s:43:"a:1:{i:0;s:25:"dr-klapper-team-ueber-uns";}";}'
 sharing_disabled:
-  - 'a:1:{i:0;s:1:"1";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"1";}";}'
 wpcf-x_userdefined_x_orig_userid:
-  - 'a:1:{i:0;s:6:"rogera";}'
+  - 'a:1:{i:0;s:23:"a:1:{i:0;s:6:"rogera";}";}'
 ---
 <a name="Dr.Klapper"></a>
 
