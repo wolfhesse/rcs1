@@ -1,7 +1,7 @@
 ---
 ID: 304
 post_title: 'Nivo Slider &#8211; The Most Awesome jQuery Image Slider'
-author: rogera
+author: Roger Andel
 post_date: 2010-03-29 13:33:33
 post_excerpt: ""
 layout: post

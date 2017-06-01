@@ -1,7 +1,7 @@
 ---
 ID: 2806
 post_title: dm rq, arch, marketing system, -pst
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 15:24:34
 post_excerpt: ""
 layout: post

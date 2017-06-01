@@ -5,7 +5,7 @@ post_title: >
   Infrastructure from the Customize
   Snapshots Feature Plugin – WordPress
   Tavern
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 11:09:46
 post_excerpt: ""
 layout: post

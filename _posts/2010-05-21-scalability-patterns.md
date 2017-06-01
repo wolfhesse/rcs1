@@ -1,7 +1,7 @@
 ---
 ID: 267
 post_title: Scalability Patterns
-author: rogera
+author: Roger Andel
 post_date: 2010-05-21 13:40:55
 post_excerpt: ""
 layout: post

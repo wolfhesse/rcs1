@@ -1,7 +1,7 @@
 ---
 ID: 313
 post_title: zur struktur u arbeitsweise
-author: rogera
+author: Roger Andel
 post_date: 2010-05-20 10:35:39
 post_excerpt: ""
 layout: post

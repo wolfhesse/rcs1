@@ -1,7 +1,7 @@
 ---
 ID: 259
 post_title: Vinzi Port
-author: rogera
+author: Roger Andel
 post_date: 2009-12-23 15:59:41
 post_excerpt: ""
 layout: post

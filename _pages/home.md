@@ -1,7 +1,7 @@
 ---
 ID: 2082
 post_title: Über uns
-author: rogera
+author: Roger Andel
 post_date: 2016-02-08 02:41:53
 post_excerpt: ""
 layout: page

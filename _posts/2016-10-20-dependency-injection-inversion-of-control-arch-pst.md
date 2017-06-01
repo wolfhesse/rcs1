@@ -3,7 +3,7 @@ ID: 2804
 post_title: >
   dependency injection, inversion of
   control, arch -pst
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 15:18:51
 post_excerpt: ""
 layout: post

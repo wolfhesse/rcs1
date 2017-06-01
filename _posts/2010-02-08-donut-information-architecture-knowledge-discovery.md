@@ -3,7 +3,7 @@ ID: 263
 post_title: >
   donut information architecture,
   knowledge discovery
-author: rogera
+author: Roger Andel
 post_date: 2010-02-08 20:29:45
 post_excerpt: http://delicious.com/tag/donut+blog
 layout: post

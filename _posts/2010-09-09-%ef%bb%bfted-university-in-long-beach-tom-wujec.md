@@ -3,7 +3,7 @@ ID: 273
 post_title: >
   ﻿TED University in Long Beach, Tom
   Wujec
-author: rogera
+author: Roger Andel
 post_date: 2010-09-09 03:42:00
 post_excerpt: ""
 layout: post

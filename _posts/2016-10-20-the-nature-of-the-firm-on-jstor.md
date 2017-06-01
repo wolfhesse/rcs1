@@ -1,7 +1,7 @@
 ---
 ID: 2197
 post_title: The Nature of the Firm on JSTOR
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 16:24:01
 post_excerpt: ""
 layout: post

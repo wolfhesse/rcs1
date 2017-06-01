@@ -1,7 +1,7 @@
 ---
 ID: 330
 post_title: 'Online Listen: Default Passworte'
-author: rogera
+author: Roger Andel
 post_date: 2010-09-23 05:52:05
 post_excerpt: ""
 layout: post

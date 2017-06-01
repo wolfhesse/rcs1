@@ -1,7 +1,7 @@
 ---
 ID: 270
 post_title: www.mashedcodemagazine.com
-author: rogera
+author: Roger Andel
 post_date: 2011-01-15 20:55:36
 post_excerpt: ""
 layout: post

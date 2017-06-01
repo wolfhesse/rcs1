@@ -1,7 +1,7 @@
 ---
 ID: 305
 post_title: orf.at berichterstattung
-author: rogera
+author: Roger Andel
 post_date: 2010-04-29 22:51:00
 post_excerpt: ""
 layout: post

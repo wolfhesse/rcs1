@@ -1,7 +1,7 @@
 ---
 ID: 277
 post_title: ist anonymous der nuetzliche idiot?
-author: rogera
+author: Roger Andel
 post_date: 2012-02-14 23:08:50
 post_excerpt: ""
 layout: post

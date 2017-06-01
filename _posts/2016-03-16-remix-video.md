@@ -1,7 +1,7 @@
 ---
 ID: 1860
 post_title: remix video
-author: rogera
+author: Roger Andel
 post_date: 2016-03-16 01:47:58
 post_excerpt: ""
 layout: post

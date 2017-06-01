@@ -1,7 +1,7 @@
 ---
 ID: 256
 post_title: 'wie die #unibrennt'
-author: rogera
+author: Roger Andel
 post_date: 2009-12-04 02:39:49
 post_excerpt: "mit verfuegbaren werkzeugen verwandelt sich der 'information overflow' zum 'flow of information'"
 layout: post

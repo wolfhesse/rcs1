@@ -3,7 +3,7 @@ ID: 2177
 post_title: >
   service range, arch, checklist, :draft |
   ase LIQUID DIGITAL design
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 15:00:27
 post_excerpt: ""
 layout: post

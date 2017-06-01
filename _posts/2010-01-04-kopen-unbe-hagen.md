@@ -1,7 +1,7 @@
 ---
 ID: 255
 post_title: kopen-unbe-hagen
-author: rogera
+author: Roger Andel
 post_date: 2010-01-04 03:08:04
 post_excerpt: ""
 layout: post

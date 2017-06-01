@@ -1,7 +1,7 @@
 ---
 ID: 2997
 post_title: My Account
-author: rogera
+author: Roger Andel
 post_date: 2017-01-10 19:28:39
 post_excerpt: ""
 layout: page

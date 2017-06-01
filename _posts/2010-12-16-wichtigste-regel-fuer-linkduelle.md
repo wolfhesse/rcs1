@@ -1,7 +1,7 @@
 ---
 ID: 269
 post_title: wichtigste regel fuer linkduelle
-author: rogera
+author: Roger Andel
 post_date: 2010-12-16 13:01:22
 post_excerpt: ""
 layout: post

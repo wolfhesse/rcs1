@@ -1,7 +1,7 @@
 ---
 ID: 261
 post_title: microworkshop organisation
-author: rogera
+author: Roger Andel
 post_date: 2009-12-27 20:45:32
 post_excerpt: ""
 layout: post

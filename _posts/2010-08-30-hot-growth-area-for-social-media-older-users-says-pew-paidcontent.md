@@ -1,7 +1,7 @@
 ---
 ID: 272
 post_title: 'Hot Growth Area for Social Media: Older Users, Says Pew | paidContent'
-author: rogera
+author: Roger Andel
 post_date: 2010-08-30 04:40:33
 post_excerpt: ""
 layout: post

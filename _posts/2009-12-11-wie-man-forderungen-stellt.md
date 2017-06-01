@@ -1,7 +1,7 @@
 ---
 ID: 257
 post_title: wie man forderungen stellt
-author: rogera
+author: Roger Andel
 post_date: 2009-12-11 15:04:46
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 307
 post_title: 'http://rfrchannel.wordpress.com/ mit P2 &#8230;'
-author: rogera
+author: Roger Andel
 post_date: 2010-04-25 02:08:59
 post_excerpt: ""
 layout: post

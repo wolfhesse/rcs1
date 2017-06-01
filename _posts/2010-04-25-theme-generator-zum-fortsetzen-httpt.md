@@ -1,7 +1,7 @@
 ---
 ID: 308
 post_title: 'theme generator zum fortsetzen: http://t&#8230;'
-author: rogera
+author: Roger Andel
 post_date: 2010-04-25 09:38:23
 post_excerpt: ""
 layout: post

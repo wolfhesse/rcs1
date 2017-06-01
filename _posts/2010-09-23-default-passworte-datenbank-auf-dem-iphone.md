@@ -1,7 +1,7 @@
 ---
 ID: 331
 post_title: 'Default Passworte: Datenbank auf dem iPhone'
-author: rogera
+author: Roger Andel
 post_date: 2010-09-23 05:59:08
 post_excerpt: ""
 layout: post

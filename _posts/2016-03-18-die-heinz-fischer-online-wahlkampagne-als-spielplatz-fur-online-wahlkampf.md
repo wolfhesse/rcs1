@@ -3,7 +3,7 @@ ID: 427
 post_title: >
   Die Heinz-Fischer Online-Wahlkampagne
   als Spielplatz für Online-Wahlkampf
-author: rogera
+author: Roger Andel
 post_date: 2016-03-18 00:32:53
 post_excerpt: ""
 layout: post
@@ -12,6 +12,8 @@ permalink: >
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
+avada_post_views_count:
+  - "0"
 ---
 Die Heinz-Fischer Online-Wahlkampagne als Spielplatz für Online-Wahlkampf
 June 28, 2010 at 1:39am

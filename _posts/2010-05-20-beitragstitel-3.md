@@ -1,7 +1,7 @@
 ---
 ID: 314
 post_title: Beitragstitel
-author: rogera
+author: Roger Andel
 post_date: 2010-05-20 10:44:45
 post_excerpt: ""
 layout: post

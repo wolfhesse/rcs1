@@ -1,7 +1,7 @@
 ---
 ID: 2205
 post_title: mkt -pst service int cluster op
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 20:36:50
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 275
 post_title: weekly outlook.
-author: rogera
+author: Roger Andel
 post_date: 2011-11-28 22:03:53
 post_excerpt: ""
 layout: post

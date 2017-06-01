@@ -1,7 +1,7 @@
 ---
 ID: 364
 post_title: Ansible is Simple IT Automation
-author: rogera
+author: Roger Andel
 post_date: 2016-03-16 16:05:30
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 2928
 post_title: rcs 1 exper jenkins – git round-robin
-author: rogera
+author: Roger Andel
 post_date: 2017-01-04 21:57:35
 post_excerpt: ""
 layout: page

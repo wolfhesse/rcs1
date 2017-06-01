@@ -1,7 +1,7 @@
 ---
 ID: 344
 post_title: Facebook Event
-author: rogera
+author: Roger Andel
 post_date: 2010-06-08 16:24:56
 post_excerpt: ""
 layout: post

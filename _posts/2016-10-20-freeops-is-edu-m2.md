@@ -1,7 +1,7 @@
 ---
 ID: 2813
 post_title: '#freeops is edu .m(2)'
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 21:14:59
 post_excerpt: ""
 layout: post

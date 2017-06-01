@@ -3,7 +3,7 @@ ID: 315
 post_title: >
   wp anmeldung zur administration und
   dashboard
-author: rogera
+author: Roger Andel
 post_date: 2010-06-20 18:22:09
 post_excerpt: ""
 layout: post

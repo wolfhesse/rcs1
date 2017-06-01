@@ -1,15 +1,15 @@
 ---
 ID: 2930
 post_title: rcs 1 gh interfacing testbed
-author: rogera
+author: Roger Andel
 post_date: 2017-01-04 21:59:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/rcs-1-gh-interfacing-testbed/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/rcs1-gh-interfacing-testbed/
 published: true
 accelerate_page_layout:
-  - default_layout
+  - 'a:1:{i:0;s:14:"default_layout";}'
 ---
 pat_davor_pre
 <pre>PAT_csect_anf

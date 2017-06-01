@@ -1,7 +1,7 @@
 ---
 ID: 1025
 post_title: 'install vlc player:&#8230; &#8211; Mein/my ubuntu problem'
-author: rogera
+author: Roger Andel
 post_date: 2016-03-23 13:31:37
 post_excerpt: ""
 layout: post

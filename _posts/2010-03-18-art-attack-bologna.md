@@ -1,7 +1,7 @@
 ---
 ID: 264
-post_title: 'Art Attack &#8216;Bologna&#8217;'
-author: rogera
+post_title: 'Art Attack &#8218;Bologna&#8216;'
+author: Roger Andel
 post_date: 2010-03-18 19:30:08
 post_excerpt: ""
 layout: post

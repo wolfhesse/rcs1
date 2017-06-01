@@ -3,7 +3,7 @@ ID: 260
 post_title: >
   was es braucht, damit die uni weiter
   brennt
-author: rogera
+author: Roger Andel
 post_date: 2009-12-27 18:58:07
 post_excerpt: ""
 layout: post

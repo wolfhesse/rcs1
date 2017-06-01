@@ -1,7 +1,7 @@
 ---
 ID: 6
 post_title: reliable way of communication
-author: rogera
+author: Roger Andel
 post_date: 2009-06-21 18:24:20
 post_excerpt: ""
 layout: post

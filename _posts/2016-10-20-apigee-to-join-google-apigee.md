@@ -1,7 +1,7 @@
 ---
 ID: 2201
 post_title: Apigee to Join Google | Apigee
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 16:59:18
 post_excerpt: ""
 layout: post

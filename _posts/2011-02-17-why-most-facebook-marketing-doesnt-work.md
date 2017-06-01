@@ -1,7 +1,7 @@
 ---
 ID: 252
 post_title: 'Why Most Facebook Marketing Doesn&#8217;t Work'
-author: rogera
+author: Roger Andel
 post_date: 2011-02-17 22:41:52
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 139
 post_title: Instant Articles | Facebook
-author: rogera
+author: Roger Andel
 post_date: 2016-03-14 16:37:01
 post_excerpt: ""
 layout: post

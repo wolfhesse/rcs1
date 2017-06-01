@@ -1,7 +1,7 @@
 ---
 ID: 268
 post_title: Fredmund Malik, Wien 2009
-author: rogera
+author: Roger Andel
 post_date: 2010-08-29 00:48:37
 post_excerpt: ""
 layout: post

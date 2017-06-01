@@ -1,7 +1,7 @@
 ---
 ID: 254
 post_title: personal finance @170 million
-author: rogera
+author: Roger Andel
 post_date: 2009-09-22 03:03:01
 post_excerpt: ""
 layout: post

@@ -1,7 +1,7 @@
 ---
 ID: 2811
 post_title: eat your own dogfood
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 20:52:26
 post_excerpt: ""
 layout: post

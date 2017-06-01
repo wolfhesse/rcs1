@@ -3,7 +3,7 @@ ID: 320
 post_title: >
   We All Like to Reblog (via WordPress.com
   News)
-author: rogera
+author: Roger Andel
 post_date: 2010-06-07 10:54:16
 post_excerpt: ""
 layout: post

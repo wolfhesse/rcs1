@@ -1,7 +1,7 @@
 ---
 ID: 274
 post_title: 'Rezension: Die kollektive Intelligenz von Pierre Lévy'
-author: rogera
+author: Roger Andel
 post_date: 2011-11-07 02:29:43
 post_excerpt: ""
 layout: post

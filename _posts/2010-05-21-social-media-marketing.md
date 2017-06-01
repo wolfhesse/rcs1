@@ -1,7 +1,7 @@
 ---
 ID: 258
 post_title: Social Media Marketing
-author: rogera
+author: Roger Andel
 post_date: 2010-05-21 13:50:40
 post_excerpt: ""
 layout: post

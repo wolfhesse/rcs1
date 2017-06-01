@@ -1,7 +1,7 @@
 ---
 ID: 310
 post_title: 'http://www.osdesigner.net/wordpress-them&#8230;'
-author: rogera
+author: Roger Andel
 post_date: 2010-05-19 14:55:40
 post_excerpt: ""
 layout: post

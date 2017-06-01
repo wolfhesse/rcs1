@@ -1,7 +1,7 @@
 ---
 ID: 253
 post_title: Twitter war ein soziales Netzwerk.
-author: rogera
+author: Roger Andel
 post_date: 2009-07-08 13:04:38
 post_excerpt: >
   eine bemerkung zu

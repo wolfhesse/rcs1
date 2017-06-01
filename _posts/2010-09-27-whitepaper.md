@@ -1,7 +1,7 @@
 ---
 ID: 334
 post_title: Whitepaper
-author: rogera
+author: Roger Andel
 post_date: 2010-09-27 14:57:44
 post_excerpt: ""
 layout: post
