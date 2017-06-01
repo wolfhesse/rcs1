@@ -1,14 +1,14 @@
 ---
-ID: 2211
+ID: 3055
 post_title: >
   Vortrag Social Media und Soziale
   Bewegungen | kellerabteil
-author: rogera
-post_date: 2016-10-24 07:49:25
+author: Roger Andel
+post_date: 2017-06-01 11:19:48
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/24/vortrag-social-media-und-soziale-bewegungen-kellerabteil/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/vortrag-social-media-und-soziale-bewegungen-kellerabteil/
 published: true
 ---
 Quelle: <em><a href="http://www.kellerabteil.org/2012/10/vortrag-social-media-und-soziale-bewegungen/">Vortrag Social Media und Soziale Bewegungen | kellerabteil</a></em>

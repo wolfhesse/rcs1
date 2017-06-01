@@ -1,161 +1,161 @@
 ---
-ID: 3199
+ID: 3079
 post_title: 'Test der Feldgruppe &#8216;Kontaktdaten-Zulu&#8217; // test-with-id: 3199'
-author: rogera
-post_date: 2017-05-25 01:24:56
-post_excerpt: Karteikarte.
+author: Roger Andel
+post_date: 2017-06-01 11:19:52
+post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2017/05/25/test-der-feldgruppe-kontaktdaten-zulu/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/test-der-feldgruppe-kontaktdaten-zulu-test-with-id-3199/
 published: true
 fusion_builder_status:
-  - active
+  - 'a:1:{i:0;s:6:"active";}'
 vorname:
-  - Roger
+  - 'a:1:{i:0;s:5:"Roger";}'
 nachname:
-  - Andel
+  - 'a:1:{i:0;s:5:"Andel";}'
 avada_post_views_count:
-  - "21"
+  - 'a:1:{i:0;s:2:"21";}'
 sbg_selected_sidebar:
-  - 'a:1:{i:0;s:1:"0";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
 sbg_selected_sidebar_replacement:
-  - 'a:1:{i:0;s:12:"Blog Sidebar";}'
+  - 'a:1:{i:0;s:30:"a:1:{i:0;s:12:"Blog Sidebar";}";}'
 sbg_selected_sidebar_2:
-  - 'a:1:{i:0;s:1:"0";}'
+  - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"0";}";}'
 sbg_selected_sidebar_2_replacement:
-  - 'a:1:{i:0;s:0:"";}'
+  - 'a:1:{i:0;s:17:"a:1:{i:0;s:0:"";}";}'
 pyre_show_first_featured_image:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_fimg_width:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_fimg_height:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_portfolio_width_100:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_video:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_image_rollover_icons:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_link_icon_url:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_post_links_target:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_related_posts:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_share_box:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_post_pagination:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_author_info:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_post_meta:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_post_comments:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_main_top_padding:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_main_bottom_padding:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_hundredp_padding:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_slider_type:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_slider:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pyre_wooslider:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pyre_revslider:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pyre_elasticslider:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 pyre_slider_position:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_avada_rev_styles:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_fallback:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_demo_slider:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_display_header:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_header_100_width:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_header_bg_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_header_bg_opacity:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_header_bg:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_header_bg_full:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_header_bg_repeat:
-  - repeat
+  - 'a:1:{i:0;s:6:"repeat";}'
 pyre_displayed_menu:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_display_footer:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_display_copyright:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_footer_100_width:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_sidebar_position:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_sidebar_bg_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_bg_layout:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_bg_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_bg:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_bg_full:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_page_bg_repeat:
-  - repeat
+  - 'a:1:{i:0;s:6:"repeat";}'
 pyre_wide_page_bg_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_wide_page_bg:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_wide_page_bg_full:
-  - 'no'
+  - 'a:1:{i:0;s:2:"no";}'
 pyre_wide_page_bg_repeat:
-  - repeat
+  - 'a:1:{i:0;s:6:"repeat";}'
 pyre_page_title:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_breadcrumbs_search_bar:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_text:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_text_alignment:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_custom_text:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_text_size:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_custom_subheader:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_custom_subheader_text_size:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_font_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_100_width:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_height:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_mobile_height:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_bar_bg_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_bar_borders_color:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_bar_bg:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_bar_bg_retina:
-  - ""
+  - 'a:1:{i:0;s:0:"";}'
 pyre_page_title_bar_bg_full:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 pyre_page_title_bg_parallax:
-  - default
+  - 'a:1:{i:0;s:7:"default";}'
 ---
 [fusion_builder_container hundred_percent="no" equal_height_columns="no" menu_anchor="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="none" parallax_speed="0.3" video_mp4="" video_webm="" video_ogv="" video_url="" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_color="" video_preview_image="" border_size="" border_color="" border_style="solid" padding_top="" padding_bottom="" padding_left="" padding_right=""][fusion_builder_row][fusion_builder_column type="1_4" layout="1_4" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no" element_content=""][fusion_fontawesome icon="fa-folder-open" size="" flip="" rotate="" spin="no" alignment="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" circle="yes" iconcolor="" circlecolor="" circlebordercolor="" animation_type="" animation_direction="down" animation_speed="0.1" animation_offset="" /][/fusion_builder_column][fusion_builder_column type="3_4" layout="3_4" spacing="" center_content="no" hover_type="none" link="" min_height="" hide_on_mobile="small-visibility,medium-visibility,large-visibility" class="" id="" background_color="" background_image="" background_position="left top" background_repeat="no-repeat" border_size="0" border_color="" border_style="solid" border_position="all" padding="" dimension_margin="" animation_type="" animation_direction="left" animation_speed="0.3" animation_offset="" last="no" element_content=""][fusion_text]
 <h3>Karteikarte:</h3>
