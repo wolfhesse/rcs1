@@ -1,12 +1,12 @@
 ---
-ID: 2997
+ID: 2226
 post_title: My Account
-author: Roger Andel
-post_date: 2017-01-10 19:28:39
+author: rogera
+post_date: 2017-01-10 20:17:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/my-account/
+  http://wp.wolfspool.chickenkiller.com/wprcs2/my-account/
 published: true
 ---
 [woocommerce_my_account]
