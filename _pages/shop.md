@@ -1,11 +1,11 @@
 ---
-ID: 2994
+ID: 2223
 post_title: Shop
-author: Roger Andel
-post_date: 2017-01-10 19:27:18
+author: rogera
+post_date: 2017-01-10 20:17:05
 post_excerpt: ""
 layout: page
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/
+  http://wp.wolfspool.chickenkiller.com/wprcs2/shop/
 published: true
 ---
