@@ -1,12 +1,12 @@
 ---
-ID: 2186
+ID: 2805
 post_title: asecms rollover rq -pst -cmd
-author: rogera
+author: Roger Andel
 post_date: 2016-10-20 15:20:14
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs2/2016/10/20/asecms-rollover-rq-pst-cmd/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/asecms-rollover-rq-pst-cmd/
 published: true
 ---
 .log .here

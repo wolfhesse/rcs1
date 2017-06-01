@@ -10,5 +10,7 @@ layout: post
 permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/vortrag-social-media-und-soziale-bewegungen-kellerabteil/
 published: true
+avada_post_views_count:
+  - "0"
 ---
 Quelle: <em><a href="http://www.kellerabteil.org/2012/10/vortrag-social-media-und-soziale-bewegungen/">Vortrag Social Media und Soziale Bewegungen | kellerabteil</a></em>

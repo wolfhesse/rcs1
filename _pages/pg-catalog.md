@@ -9,5 +9,5 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/pg-catalog/
 published: true
 accelerate_page_layout:
-  - default_layout
+  - 'a:1:{i:0;s:14:"default_layout";}'
 ---

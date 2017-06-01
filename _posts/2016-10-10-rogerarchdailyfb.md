@@ -1,14 +1,16 @@
 ---
-ID: 2807
+ID: 2190
 post_title: 'Matthias Noback &#8211; Hexagonal Architecture &#8211; Message-Oriented Software Design &#8211; YouTube'
 author: Roger Andel
-post_date: 2016-10-20 15:31:17
+post_date: 2016-10-10 09:19:18
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/matthias-noback-hexagonal-architecture-message-oriented-software-design-youtube/
+  http://wp.wolfspool.chickenkiller.com/wprcs1/rogerarchdailyfb/
 published: true
+tc-thumb-fld:
+  - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'
 avada_post_views_count:
-  - "0"
+  - 'a:1:{i:0;s:1:"0";}'
 ---
 [embed]https://www.youtube.com/watch?v=K1EJBmwg9EQ[/embed]

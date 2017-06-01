@@ -9,7 +9,7 @@ permalink: >
   http://wp.wolfspool.chickenkiller.com/wprcs1/rcs1-gh-interfacing-testbed/
 published: true
 accelerate_page_layout:
-  - 'a:1:{i:0;s:14:"default_layout";}'
+  - 'a:1:{i:0;s:32:"a:1:{i:0;s:14:"default_layout";}";}'
 ---
 pat_davor_pre
 <pre>PAT_csect_anf
