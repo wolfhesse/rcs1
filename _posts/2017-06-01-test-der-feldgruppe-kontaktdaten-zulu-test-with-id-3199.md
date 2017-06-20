@@ -1,7 +1,7 @@
 ---
 ID: 3079
 post_title: 'Test der Feldgruppe ‘Kontaktdaten-Zulu’ // test-with-id: 3199'
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:52
 post_excerpt: ""
 layout: post

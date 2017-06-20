@@ -1,12 +1,12 @@
 ---
 ID: 364
 post_title: Ansible is Simple IT Automation
-author: Roger Andel
+author: rogera
 post_date: 2016-03-16 16:05:30
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/ansible-is-simple-it-automation/
+  http://wolfspool.at/wprcs1/ansible-is-simple-it-automation/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

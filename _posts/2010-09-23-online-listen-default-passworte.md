@@ -1,12 +1,12 @@
 ---
 ID: 330
 post_title: 'Online Listen: Default Passworte'
-author: Roger Andel
+author: rogera
 post_date: 2010-09-23 05:52:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/online-listen-default-passworte/
+  http://wolfspool.at/wprcs1/online-listen-default-passworte/
 published: true
 ---
 Eine Liste von Links zu Sammlungen von Default Passworten verschiedenster Routermodelle befindet sich auf ﻿<a href="http://groups.diigo.com/group/ln_2010_sh/content/tag/list%20password">http://groups.diigo.com/group/ln_2010_sh/content/tag/list%20password</a>

@@ -1,12 +1,12 @@
 ---
 ID: 277
 post_title: ist anonymous der nuetzliche idiot?
-author: Roger Andel
+author: rogera
 post_date: 2012-02-14 23:08:50
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/ist-anonymous-der-nuetzliche-idiot/
+  http://wolfspool.at/wprcs1/ist-anonymous-der-nuetzliche-idiot/
 published: true
 ---
 // #anonymous //

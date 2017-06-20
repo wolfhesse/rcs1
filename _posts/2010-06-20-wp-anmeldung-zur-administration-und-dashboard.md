@@ -3,12 +3,12 @@ ID: 315
 post_title: >
   wp anmeldung zur administration und
   dashboard
-author: Roger Andel
+author: rogera
 post_date: 2010-06-20 18:22:09
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/wp-anmeldung-zur-administration-und-dashboard/
+  http://wolfspool.at/wprcs1/wp-anmeldung-zur-administration-und-dashboard/
 published: true
 ---
 die wesentlichen <strong>regelmaessigen</strong> arbeiten zur administration umfassen

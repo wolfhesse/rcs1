@@ -1,12 +1,12 @@
 ---
 ID: 2199
 post_title: 'https://aeon.co/essays/how-the-soviets-invented-t&#8230; &#8211; Andel Systems Engineering'
-author: Roger Andel
+author: rogera
 post_date: 2016-10-11 08:57:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/pst-interactive-con-npm-fsevents/
+  http://wolfspool.at/wprcs1/pst-interactive-con-npm-fsevents/
 published: true
 wpcf-x_userdefined_x_ase_homepage:
   - >

@@ -6,7 +6,7 @@ post_date: 2009-09-09 17:55:36
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/asiatische-maultrommel/
+  http://wolfspool.at/wprcs1/asiatische-maultrommel/
 published: true
 delicious:
   - 'a:3:{s:5:"count";i:0;s:9:"post_tags";s:0:"";s:4:"time";i:1354047206;}'

@@ -1,12 +1,12 @@
 ---
 ID: 313
 post_title: zur struktur u arbeitsweise
-author: Roger Andel
+author: rogera
 post_date: 2010-05-20 10:35:39
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/beitragstitel-2/
+  http://wolfspool.at/wprcs1/beitragstitel-2/
 published: true
 ---
 menues f wtv: diskussion, eventtv, news // ustream plugin fuer category:wientv.diskussion

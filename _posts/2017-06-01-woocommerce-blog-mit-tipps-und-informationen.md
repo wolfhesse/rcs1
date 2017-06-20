@@ -3,12 +3,12 @@ ID: 3073
 post_title: >
   WooCommerce Blog mit Tipps und
   Informationen
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/woocommerce-blog-mit-tipps-und-informationen/
+  http://wolfspool.at/wprcs1/woocommerce-blog-mit-tipps-und-informationen/
 published: true
 avada_post_views_count:
   - 'a:1:{i:0;s:1:"0";}'

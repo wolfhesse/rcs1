@@ -1,12 +1,12 @@
 ---
 ID: 3071
 post_title: Simple Custom CSS
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:50
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/simple-custom-css/
+  http://wolfspool.at/wprcs1/simple-custom-css/
 published: true
 avada_post_views_count:
   - 'a:1:{i:0;s:1:"2";}'

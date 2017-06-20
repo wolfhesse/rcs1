@@ -1,12 +1,11 @@
 ---
 ID: 3024
 post_title: RCS2 Start
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:42
 post_excerpt: ""
 layout: page
-permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/rcs2-start/
+permalink: http://wolfspool.at/wprcs1/rcs2-start/
 published: true
 sharing_disabled:
   - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"1";}";}'

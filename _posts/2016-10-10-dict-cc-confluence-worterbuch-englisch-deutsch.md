@@ -1,12 +1,12 @@
 ---
 ID: 2188
 post_title: dm rq, arch, marketing system, -pst
-author: Roger Andel
+author: rogera
 post_date: 2016-10-10 08:33:06
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/dict-cc-confluence-worterbuch-englisch-deutsch/
+  http://wolfspool.at/wprcs1/dict-cc-confluence-worterbuch-englisch-deutsch/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

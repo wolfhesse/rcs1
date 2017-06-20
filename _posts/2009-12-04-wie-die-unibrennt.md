@@ -1,12 +1,12 @@
 ---
 ID: 256
 post_title: 'wie die #unibrennt'
-author: Roger Andel
+author: rogera
 post_date: 2009-12-04 02:39:49
 post_excerpt: "mit verfuegbaren werkzeugen verwandelt sich der 'information overflow' zum 'flow of information'"
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/wie-die-unibrennt/
+  http://wolfspool.at/wprcs1/wie-die-unibrennt/
 published: true
 ---
 die twitter-nachrichtenversorgung der ersten woche der oesterreichischen studierendenproteste ist ein wenig abgerissen, wodurch vielleicht der eindruck entstehen konnte, die bewegung waere im abflauen.

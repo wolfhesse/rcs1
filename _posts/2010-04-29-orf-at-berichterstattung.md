@@ -1,12 +1,12 @@
 ---
 ID: 305
 post_title: orf.at berichterstattung
-author: Roger Andel
+author: rogera
 post_date: 2010-04-29 22:51:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/orf-at-berichterstattung/
+  http://wolfspool.at/wprcs1/orf-at-berichterstattung/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

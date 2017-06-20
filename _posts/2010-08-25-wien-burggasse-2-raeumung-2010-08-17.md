@@ -6,7 +6,7 @@ post_date: 2010-08-25 12:18:21
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/wien-burggasse-2-raeumung-2010-08-17/
+  http://wolfspool.at/wprcs1/wien-burggasse-2-raeumung-2010-08-17/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";i:340;s:11:"_thumb_type";s:10:"attachment";}'

@@ -1,12 +1,12 @@
 ---
 ID: 261
 post_title: microworkshop organisation
-author: Roger Andel
+author: rogera
 post_date: 2009-12-27 20:45:32
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/microworkshop-organisation/
+  http://wolfspool.at/wprcs1/microworkshop-organisation/
 published: true
 ---
 <div id="_mcePaste">28.12. 1800ct</div>

@@ -1,14 +1,14 @@
 ---
 ID: 253
 post_title: Twitter war ein soziales Netzwerk.
-author: Roger Andel
+author: rogera
 post_date: 2009-07-08 13:04:38
 post_excerpt: >
   eine bemerkung zu
   http://digiom.wordpress.com/2009/05/07/medientheorie-wieso-twitter-ein-eiskaltes-medium-ist
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/re-medientheorie-wieso-twitter-ein-eiskaltes-medium-ist/
+  http://wolfspool.at/wprcs1/re-medientheorie-wieso-twitter-ein-eiskaltes-medium-ist/
 published: true
 ---
 <div class="zemanta-img">

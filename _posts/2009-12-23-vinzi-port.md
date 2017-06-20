@@ -1,12 +1,11 @@
 ---
 ID: 259
 post_title: Vinzi Port
-author: Roger Andel
+author: rogera
 post_date: 2009-12-23 15:59:41
 post_excerpt: ""
 layout: post
-permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/vinzi-port/
+permalink: http://wolfspool.at/wprcs1/vinzi-port/
 published: true
 ---
 ...weiterleiten:

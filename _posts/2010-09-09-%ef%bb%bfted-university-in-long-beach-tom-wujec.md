@@ -3,11 +3,11 @@ ID: 273
 post_title: >
   ﻿TED University in Long Beach, Tom
   Wujec
-author: Roger Andel
+author: rogera
 post_date: 2010-09-09 03:42:00
 post_excerpt: ""
 layout: post
-permalink: 'http://wp.wolfspool.chickenkiller.com/wprcs1/%ef%bb%bfted-university-in-long-beach-tom-wujec/'
+permalink: 'http://wolfspool.at/wprcs1/%ef%bb%bfted-university-in-long-beach-tom-wujec/'
 published: true
 tagazine-media:
   - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"1944800";s:7:"blog_id";s:7:"1870407";s:9:"mod_stamp";s:19:"2011-01-07 02:51:31";}'

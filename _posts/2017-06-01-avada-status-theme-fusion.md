@@ -1,12 +1,12 @@
 ---
 ID: 3067
 post_title: 'Avada Status &#8211; Theme Fusion'
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/avada-status-theme-fusion/
+  http://wolfspool.at/wprcs1/avada-status-theme-fusion/
 published: true
 avada_post_views_count:
   - 'a:1:{i:0;s:1:"0";}'

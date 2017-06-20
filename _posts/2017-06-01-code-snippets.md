@@ -1,12 +1,12 @@
 ---
 ID: 3069
 post_title: Code Snippets
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/code-snippets/
+  http://wolfspool.at/wprcs1/code-snippets/
 published: true
 avada_post_views_count:
   - 'a:1:{i:0;s:1:"1";}'

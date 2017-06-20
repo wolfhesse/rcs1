@@ -1,12 +1,12 @@
 ---
 ID: 1025
 post_title: 'install vlc player:&#8230; &#8211; Mein/my ubuntu problem'
-author: Roger Andel
+author: rogera
 post_date: 2016-03-23 13:31:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/install-vlc-player-meinmy-ubuntu-problem/
+  http://wolfspool.at/wprcs1/install-vlc-player-meinmy-ubuntu-problem/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

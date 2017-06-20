@@ -1,12 +1,14 @@
 ---
 ID: 3093
 post_title: sess ansible
-author: Roger Andel
+author: rogera
 post_date: 2017-06-12 09:44:21
 post_excerpt: ""
 layout: post
 permalink: http://wolfspool.at/wprcs1/sess-ansible/
 published: true
+fusion_builder_status:
+  - ""
 sbg_selected_sidebar:
   - 'a:1:{i:0;s:1:"0";}'
 sbg_selected_sidebar_replacement:
@@ -147,8 +149,6 @@ pyre_page_title_bar_bg_full:
   - default
 pyre_page_title_bg_parallax:
   - default
-fusion_builder_status:
-  - ""
 ---
 https://www.ansible.com/get-started
 

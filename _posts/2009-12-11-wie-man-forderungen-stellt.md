@@ -1,12 +1,12 @@
 ---
 ID: 257
 post_title: wie man forderungen stellt
-author: Roger Andel
+author: rogera
 post_date: 2009-12-11 15:04:46
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/wie-man-forderungen-stellt/
+  http://wolfspool.at/wprcs1/wie-man-forderungen-stellt/
 published: true
 ---
 <strong>gar nicht.</strong>

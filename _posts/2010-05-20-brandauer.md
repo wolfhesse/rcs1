@@ -5,8 +5,7 @@ author: mummensausen
 post_date: 2010-05-20 01:57:25
 post_excerpt: ""
 layout: post
-permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/brandauer/
+permalink: http://wolfspool.at/wprcs1/brandauer/
 published: true
 ---
 ﻿http://www.ustream.tv/recorded/2542563

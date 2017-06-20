@@ -1,12 +1,11 @@
 ---
 ID: 3029
 post_title: WooExper pg
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:42
 post_excerpt: ""
 layout: page
-permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/wooexper-pg/
+permalink: http://wolfspool.at/wprcs1/wooexper-pg/
 published: true
 sharing_disabled:
   - 'a:1:{i:0;s:18:"a:1:{i:0;s:1:"1";}";}'

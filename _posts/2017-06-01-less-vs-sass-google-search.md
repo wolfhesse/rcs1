@@ -1,12 +1,12 @@
 ---
 ID: 3077
 post_title: 'less vs sass &#8211; Google Search'
-author: Roger Andel
+author: rogera
 post_date: 2017-06-01 11:19:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/less-vs-sass-google-search/
+  http://wolfspool.at/wprcs1/less-vs-sass-google-search/
 published: true
 avada_post_views_count:
   - 'a:1:{i:0;s:1:"2";}'

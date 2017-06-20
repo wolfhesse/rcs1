@@ -1,12 +1,12 @@
 ---
 ID: 252
 post_title: 'Why Most Facebook Marketing Doesn&#8217;t Work'
-author: Roger Andel
+author: rogera
 post_date: 2011-02-17 22:41:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/why-most-facebook-marketing-doesnt-work/
+  http://wolfspool.at/wprcs1/why-most-facebook-marketing-doesnt-work/
 published: true
 tagazine-media:
   - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"1944800";s:7:"blog_id";s:7:"1870407";s:9:"mod_stamp";s:19:"2011-02-17 22:41:52";}'

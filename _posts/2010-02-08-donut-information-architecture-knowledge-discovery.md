@@ -3,12 +3,12 @@ ID: 263
 post_title: >
   donut information architecture,
   knowledge discovery
-author: Roger Andel
+author: rogera
 post_date: 2010-02-08 20:29:45
 post_excerpt: http://delicious.com/tag/donut+blog
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/donut-information-architecture-knowledge-discovery/
+  http://wolfspool.at/wprcs1/donut-information-architecture-knowledge-discovery/
 published: true
 ---
 http://delicious.com/tag/donut+blog

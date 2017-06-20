@@ -1,12 +1,12 @@
 ---
 ID: 139
 post_title: Instant Articles | Facebook
-author: Roger Andel
+author: rogera
 post_date: 2016-03-14 16:37:01
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/instant-articles-facebook/
+  http://wolfspool.at/wprcs1/instant-articles-facebook/
 published: true
 original_post_id:
   - "139"

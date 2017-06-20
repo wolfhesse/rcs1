@@ -1,12 +1,12 @@
 ---
 ID: 268
 post_title: Fredmund Malik, Wien 2009
-author: Roger Andel
+author: rogera
 post_date: 2010-08-29 00:48:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/fredmund-malik-wien-2009/
+  http://wolfspool.at/wprcs1/fredmund-malik-wien-2009/
 published: true
 tagazine-media:
   - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"1944800";s:7:"blog_id";s:7:"1870407";s:9:"mod_stamp";s:19:"2010-08-29 20:25:11";}'

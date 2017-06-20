@@ -1,12 +1,12 @@
 ---
 ID: 2171
 post_title: 'How it Works: Living in a Giant Submarine During Months &#8211; Submarine Documentary &#8211; YouTube'
-author: Roger Andel
+author: rogera
 post_date: 2016-10-10 08:14:59
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/3-christof-moser/
+  http://wolfspool.at/wprcs1/3-christof-moser/
 published: true
 tc-thumb-fld:
   - 'a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}'

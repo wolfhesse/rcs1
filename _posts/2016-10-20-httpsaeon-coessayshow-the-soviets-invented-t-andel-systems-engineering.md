@@ -1,12 +1,12 @@
 ---
 ID: 2810
 post_title: 'https://aeon.co/essays/how-the-soviets-invented-t&#8230; &#8211; Andel Systems Engineering'
-author: Roger Andel
+author: rogera
 post_date: 2016-10-20 16:46:33
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/httpsaeon-coessayshow-the-soviets-invented-t-andel-systems-engineering/
+  http://wolfspool.at/wprcs1/httpsaeon-coessayshow-the-soviets-invented-t-andel-systems-engineering/
 published: true
 ---
 <blockquote>Andel Systems Engineering, Wien. Gefällt 7 Mal · 2 Personen sprechen darüber. Computer/Technik</blockquote>

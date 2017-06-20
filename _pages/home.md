@@ -1,12 +1,12 @@
 ---
 ID: 2082
 post_title: Über uns
-author: Roger Andel
+author: rogera
 post_date: 2016-02-08 02:41:53
 post_excerpt: ""
 layout: page
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/pg-catalog/home/
+  http://wolfspool.at/wprcs1/pg-catalog/home/
 published: true
 tc-thumb-fld:
   - 'a:2:{i:0;s:348:"a:2:{i:0;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";i:1;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";}";i:1;s:348:"a:2:{i:0;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";i:1;s:158:"a:2:{i:0;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";i:1;s:64:"a:2:{s:9:"_thumb_id";s:4:"1025";s:11:"_thumb_type";s:5:"thumb";}";}";}";}'

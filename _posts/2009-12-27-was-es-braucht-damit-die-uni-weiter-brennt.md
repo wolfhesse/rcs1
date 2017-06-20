@@ -3,12 +3,12 @@ ID: 260
 post_title: >
   was es braucht, damit die uni weiter
   brennt
-author: Roger Andel
+author: rogera
 post_date: 2009-12-27 18:58:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wp.wolfspool.chickenkiller.com/wprcs1/was-es-braucht-damit-die-uni-weiter-brennt/
+  http://wolfspool.at/wprcs1/was-es-braucht-damit-die-uni-weiter-brennt/
 published: true
 ---
 das alte denken hat ausgedient.
