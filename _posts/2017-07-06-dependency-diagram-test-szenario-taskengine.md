@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-07-06 14:53:19
 ---
-<img class="alignnone size-medium wp-image-3116" src="http://wolfspool.at/wprcs1/wp-content/uploads/2017/07/Dependencies-Graph-300x157.png" alt="" width="300" height="157" />
+<a href="http://wolfspool.at/wprcs1/wp-content/uploads/2017/07/Dependencies-Graph.png"></a><a href="http://wolfspool.at/wprcs1/wp-content/uploads/2017/07/Dependencies-Graph.png"><img class="alignnone wp-image-3116 size-large" src="http://wolfspool.at/wprcs1/wp-content/uploads/2017/07/Dependencies-Graph-1024x536.png" alt="" width="700" height="366" /></a>
