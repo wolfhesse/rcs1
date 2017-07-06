@@ -1,11 +1,11 @@
 ---
 ID: 3115
-post_title: 'dependency diagram test szenario: TaskEngine'
+post_title: 'dependency diagram test szenario: TodoEngine saving Tasks'
 author: rogera
 post_excerpt: ""
 layout: post
 permalink: >
-  http://wolfspool.at/wprcs1/dependency-diagram-test-szenario-taskengine/
+  http://wolfspool.at/wprcs1/dependency-diagram-test-szenario-todoengine-saving-tasks/
 published: true
 post_date: 2017-07-06 14:53:19
 ---
